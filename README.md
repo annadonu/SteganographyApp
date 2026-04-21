@@ -1,4 +1,4 @@
-Markdown
+
 # SteganographyApp
 
 SteganographyApp is a Python-based desktop application designed for hiding and extracting text within digital images using various steganographic algorithms. The project provides a graphical user interface (GUI) to make complex data-hiding techniques accessible and easy to use.
